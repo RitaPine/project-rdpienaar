@@ -16,7 +16,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(---heading-font-family);
+  font-family: var(--heading-font-family);
   color: black;
   font-weight: bold;
 }
@@ -41,7 +41,7 @@ p {
 }
 
 .hero p {
-  font-family: var(---heading-font-family);
+  font-family: var(--heading-font-family);
   font-weight: normal;
   line-height: 2;
   font-size: 24px;
