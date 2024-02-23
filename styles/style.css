@@ -12,6 +12,9 @@ h6 {
   font-weight: bold;
 }
 
+h1 {
+  font-size: 96px;
+}
 p {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
@@ -23,4 +26,14 @@ p {
 
 .hero p {
   font-size: 36px;
+  font-weight: bold;
+  margin: 0;
+  color: #272142;
+}
+
+.hero p {
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+  line-height: 2;
+  font-size: 24px;
 }
