@@ -125,8 +125,12 @@ p {
   max-height: 40px;
 }
 
-.img {
+@element.img {
   border: 4px ridge #58526d;
+   $this {
+    width: 100%;
+    height: 100ew;
+    border: 20ew solid lime
 }
 
 nav {
