@@ -1,6 +1,6 @@
 :root {
   --branding-color: #58526d;
-  --secondary-color: #f9f7fe;
+  --secondary-color: #dddae9;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
@@ -126,7 +126,7 @@ p {
 }
 
 .img {
-  border: 4px ridge #6c63ff;
+  border: 4px ridge #58526d;
 }
 
 nav {
