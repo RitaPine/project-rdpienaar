@@ -125,6 +125,10 @@ p {
   max-height: 40px;
 }
 
+.img {
+  border: 4px ridge #6c63ff;
+}
+
 nav {
   padding: 20px 0;
 }
